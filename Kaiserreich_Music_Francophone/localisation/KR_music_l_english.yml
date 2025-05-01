@@ -153,6 +153,9 @@
 
 ####     E U R O P E     ####
 
+### AFG - Afghanistan ###
+ da_pukhto_tair_hair_awazona: "Da Pukhto Tair Hair Awazona"
+
 ### ALB - Albania ###
  himni_i_flamurit: "Himni i Flamurit\n§PHymn of the Flag§!"
 
@@ -705,9 +708,9 @@
 
 ### UKR - Ukraine ###
  anarchia: "Anarkhiya-mama synov svoikh lyubit\n§PMother Anarchy Loves her Sons§!"
- zaphorozian_cossack_march: "Zhaporosiys'kyy kozats'kyy marsh\n§PZaphorozhian Cossack March§!"
- hej_stepamy: "Hej, Stepamy\n§PHey, Steppes§!"
- pour_brothers_crystal_bowls: "Nalyty, Braty, Kryshtalevi Chashi\n§PPour, Brothers, Crystal Bowls§!"
+ zaporizkyi_kozatskyi_marsh: "Zaporizkyi Kozatskyi Marsh\n§PZaphorozhian Cossack March§!"
+ hei_stepamy: "Hei, Stepamy\n§PHey, Steppes§!"
+ nalyvaite_brattia_kryshtalevi_chashi: "Nalyvaite, Brattia, Kryshtalevi Chashi\n§PPour, Brothers, Crystal Bowls§!"
  taras_bulba: "Taras Bulba Overture"
  ukraine_is_not_yet_lost: "Ukraine is Not Yet Lost"
  oh_the_red_viburnum_in_the_meadow: "Oh, the Red Viburnum in the Meadow"
@@ -721,9 +724,9 @@
  black_clouds_cover_over_the_ruins: "Black Clouds Cover Over the Ruins"
  ked_my_pryishla_karta: "Ked my pryishla karta\n§PWhen I Received my Draft Notice§!"
  oh_you_can_see_the_village: "Oi, vydno selo\n§POh, You Can See the Village§!"
- vichnyy_revolyutsioner: "Vichnyy Revolyutsioner\n§PEternal Revolutionary§!"
+ vichnyi_revoliutsioner: "Vichnyi Revoliutsioner\n§PEternal Revolutionary§!"
  yshly_selom_partyzany: "Yshly selom partyzany\n§PPartisans Walked Through the Village§!"
- ikhav_kozak_za_dunaj: "Ikhav Kozak za Dunaj\n§PThe Cossack Rode beyond the Danube§!"
+ yikhav_kozak_za_dunai: "Yikhav Kozak za Dunai\n§PThe Cossack Rode beyond the Danube§!"
 
 ### VNC - Venice ###
  salve_invicta_juditha_formosa: "Salve Invicta Juditha Formosa\n§PHail Judith the invincible§!"
@@ -1059,10 +1062,10 @@
  ekla_cholo_re: "Ekla Cholo Re\n§PGo it alone§!"
  door_hato_ai_duniya_walo: "Door Hato Ai Duniya Walo\n§PGo Away, O People of the World§!"
 
-### INS - Insulindia ###
+### INS - Indonesia ###
  ajoen_ajoen: "Ajoen Ajoen\n§PSwinging In The High Coconut Tree§!"
  ayo_mama: "Ayo Mama\n§PCome On, Mom§!"
- insulindia_raya: "Insulindia Raya\n§PInsulindia National Anthem§!"
+ indonesia_raya: "Indonesia Raya\n§PIndonesian National Anthem§!"
  kampuang_nan_jauh_di_mato: "Kampuang Nan Jauh Di Mato\n§PFaraway Village in My Eyes§!"
  lagu_nasakom_bersatu_dengan: "Lagu Nasakom Bersatu\n§PNasakom Unity Song§!"
  madju_sukarelawan: "Madju Sukarelawan\n§PAdvance Volunteers§!"
@@ -1140,7 +1143,6 @@
  phoenix_returns_to_its_nest: "Feng Huan Chao\n§PPhoenix Returns to its Nest§!"
 
 ### RAJ - British India ###
- da_pukhto_tair_hair_awazona: "Da Pukhto Tair Hair Awazona"
  punjab_regimental_march: "Punjab Regimental March"
 
 ### SIA - Siam ###
