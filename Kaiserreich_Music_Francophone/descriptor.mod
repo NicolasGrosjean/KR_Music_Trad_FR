@@ -9,5 +9,5 @@ tags={
 	"Sound"
 	"Translation"
 }
-picture="KR_Music_FR.jpg"
+picture="thumbnail.png"
 supported_version="1.16.*"
