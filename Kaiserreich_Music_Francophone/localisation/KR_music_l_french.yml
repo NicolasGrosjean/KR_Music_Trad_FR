@@ -15,6 +15,15 @@
 #############################
 
 ### (US) American Tags ###
+ USA_the_sheik_of_araby: "The Sheik of Araby\n§PLe Cheikh d'Arabie§!"
+ USA_marie: "Marie"
+ USA_weary_blues: "Weary Blues\n§PBlues fatigué§!"
+ USA_liebestraum: "Liebestraum"
+ USA_hawaiian_war_chant: "Hawaiian War Chant\n§PChant de Guerre hawaïen§!"
+ USA_john_silver: "John Silver"
+ USA_immigration_blues: "Immigration Blues\n§PBlues de l'Immigration§!"
+ USA_puttin_on_the_ritz: "Puttin' On the Ritz\n§PS'habiller pour aller au Ritz§!"
+ USA_god_bless_america: "God Bless America\n§PDieu Bénisse l'Amérique§!"
  strike_up_the_band: "Strike Up the Band!\n§PEn avant la musique !§!"
  pocketful_of_dreams: "I've got a Pocketful of Dreams\n§PJ'ai la Poche Pleine de Rêves§!"
  a_dime_from_every_dollar: "I'm Saving a Dime Out of Every Dollar\n§PJ'épargne Dix Cents pour Chaque Dollar§!"
@@ -135,10 +144,14 @@
  einmal_schaffts_jeder: "Einmal schafft's jeder\n§PTout le monde y arrivera un jour§!"
 
 ### Indian Region ###
+ HND_kafi_holi: "Kafi-Holi\n§PFestival des Couleurs du Printemps§!"
+ HND_dhun: "Dhun\n§PAir folkloriques§!"
+ HND_mishra_piloo: "Mishra Piloo"
+ HND_raga_puriya_dhanashri: "Raga Puriya Dhanashri"
+ HND_raga_charu_keshi: "Raga Charu Keshi"
  jana_gana_maza: "Jana Gana Mana\n§PTu es le Souverain de Toutes les Âmes§!"
  o_pardesi_musafir: "O Pardesi Musafir"
  duniya_walay: "Duniya Walay\n§PUn seul monde§!"
- aao_bachcho_tumhe_dikhaye: "Aao Bachcho Tumhe Dikhaye\n§PVenez, les enfants, laissez-moi vous montrer§!"
 
 ### Platinean Region ###
  por_un_cabeza: "Por una Cabeza\n§PPar une tête§!"
@@ -152,6 +165,9 @@
 #############################
 
 ####     E U R O P E     ####
+
+### AFG - Afghanistan ###
+ da_pukhto_tair_hair_awazona: "Da Pukhto Tair Hair Awazona"
 
 ### ALB - Albania ###
  himni_i_flamurit: "Himni i Flamurit\n§PHymne au Drapeau§!"
@@ -705,9 +721,9 @@
 
 ### UKR - Ukraine ###
  anarchia: "Anarkhiya-mama synov svoikh lyubit\n§PLa mère Anarchie aime ses fils§!"
- zaphorozian_cossack_march: "Zhaporosiys'kyy kozats'kyy marsh\n§PZaphorozhian Cossack March§!"
- hej_stepamy: "Hej, Stepamy\n§PHey, Steppes§!"
- pour_brothers_crystal_bowls: "Nalyty, Braty, Kryshtalevi Chashi\n§PPour, Brothers, Crystal Bowls§!"
+ zaporizkyi_kozatskyi_marsh: "Zaporizkyi Kozatskyi Marsh\n§PMarche des Cosaques zaporogues§!"
+ hei_stepamy: "Hei, Stepamy\n§PHé, les Steppes§!"
+ nalyvaite_brattia_kryshtalevi_chashi: "Nalyvaite, Brattia, Kryshtalevi Chashi\n§PVersez, Frères, des Bols de Cristal§!"
  taras_bulba: "Ouverture de Taras Bulba"
  ukraine_is_not_yet_lost: "L'Ukraine n'est Pas Encore Perdue"
  oh_the_red_viburnum_in_the_meadow: "Oi u luzi chervona kalyna\n§POh, dans la prairie, le Viorne rouge s'est couché§!"
@@ -721,9 +737,9 @@
  black_clouds_cover_over_the_ruins: "Des Nuages noirs au-dessus des Ruines"
  ked_my_pryishla_karta: "Ked my pryishla karta\n§PQuand j'ai reçu mon avis de projet§!"
  oh_you_can_see_the_village: "Oi, vydno selo\n§POh, vous pouvez voir le village§!"
- vichnyy_revolyutsioner: "Vichnyy Revolyutsioner\n§PEternal Revolutionary§!"
+ vichnyi_revoliutsioner: "Vichnyi Revoliutsioner\n§PRévolutionnaire éternel§!"
  yshly_selom_partyzany: "Yshly selom partyzany\n§PLes partisans traversent le village§!"
- ikhav_kozak_za_dunaj: "Ikhav Kozak za Dunaj\n§PThe Cossack Rode beyond the Danube§!"
+ yikhav_kozak_za_dunai: "Yikhav Kozak za Dunai\n§PLe Cosaque chevaucha au-delà du Danube§!"
 
 ### VNC - Venice ###
  salve_invicta_juditha_formosa: "Salve Invicta Juditha Formosa\n§PSalut à toi, Judith, la Belle, l'Invincible§!"
@@ -732,6 +748,19 @@
  men_of_harlech: "Rhyfelgyrch Gwŷr Harlech\n§PLes Hommes d'Harlech§!"
 
 ####    A M E R I C A    ####
+
+### APG - American People's Government ###
+ every_man_a_king: "Every Man a King\n§PChaque Homme un Roi§!"
+ american_salute: "American Salute\n§PSalut Américain (reprise de "Quand Johnny rentre à la Maison")§!"
+ bravura_march: "Bravura March\n§PMarche de bravoure§!"
+ columbia_the_gem_of_the_ocean: "Columbia, the Gem of the Ocean\n§PColumbia, Joyau de l'Océan§!"
+ front_section_march: "Front Section! March\n§PSection avant ! Marche§!"
+ nobles_of_the_mystic_shrine: "Nobles of the Mystic Shrine March\n§PNobles du Sanctuaire mystique§!"
+ the_purple_carnival: "The Purple Carnival\n§PLe Carnaval Pourpre§!"
+ sound_off: "Sound Off"
+ the_trombone_king: "Le Roi du Trombone"
+ the_yellow_rose_of_texas: "The Yellow Rose of Texas\n§PLa Rose jaune du Texas§!"
+ joyces_71st_new_york_regiment_march: "Joyce's 71st New York Regiment March\n§PMarche du 71e régiment de New York de Joyce§!"
 
 ### ARG - Argentina ###
  mi_noche_triste: "Mi noche triste\n§PMa Triste Nuit§!"
@@ -803,20 +832,6 @@
  inspiraciones_costarricenses: "Inspiraciones Costarricenses\n§PInspirations costariciennes§!"
  himno_costa_rica: "Himno Nacional Costarricense\n§PHymne National Costaricien§!"
  himno_15_de_septiembre: "Himno del 15 de Septiembre\n§PHymne du 15 Septembre§!"
-
-### CSA - Combined Syndicates ###
- ludlow_masacre: "The Ludlow Massacre\n§PLe Massacre de Ludlow§!"
- this_land_is_your_land: "This Land is Your Land\n§PCette terre est ta terre§!"
- better_world: "There's a Better World a'Comin'\n§PUn Monde Meilleur S'annonce§!"
- two_good_men: "Two Good Men\n§PDeux Hommes bons§!"
- banks_of_marble: "The Banks of Marble\n§PLes Banques de Marbre§!"
- solidarity_forever: "Solidarity Forever\n§PSolidarité pour Toujours§!"
- power_inunion: "There is Power in a Union\n§PUn Syndicat a du Pouvoir§!"
- robeson_john_browns_body: "John Brown's Body\n§PLe Corps de John Brown§!"
- which_side_are_you_on: "Which Side are You On?\n§PDe quel côté es-tu ?§!"
- bread_and_roses: "Bread and Roses\n§PDu Pain et des Roses§!"
- a_thousand_years: "We Fed You All for a Thousand Years\n§PNous vous avons tous nourri pendant mille ans§!"
- joe_hill: "Joe Hill"
 
 ### CUB - Cuba ###
  el_manisero: "El Manisero\n§PLe vendeur de cacahuètes§!"
@@ -942,20 +957,6 @@
  men_revenant: "C'est l'Aviron"
  la_feuilled_erable: "La Feuille d'Érable"
 
-### TEX - American Union State ###
- american_salute: "American Salute\n§PSalut Américain (reprise de "Quand Johnny rentre à la Maison")§!"
- bravura: "Bravura March\n§PMarche de la Bravoure§!"
- columbia_gem_of_the_ocean: "Oh Columbia, the Gem of the Ocean\n§PÔ Columbia, Gemme de l'Océan§!"
- every_man_a_king: "Every Man a King\n§PChaque Homme un Roi§!"
- front_section: "Front Section! March\n§PSection Avant !§!"
- nobles_of_the_mystic_shrine: "Nobles of the Mystic Shrine March\n§PMarche des Nobles du Sanctuaire mystique§!"
- purple_carnival: "The Purple Carnival March\n§PMarche du Carnaval pourpre§!"
- sound_off: "Sound Off March"
- trombone_king: "The Trombone King March\n§PLe Roi du Trombone§!"
- the_yellow_rose_of_texas: "The Yellow Rose of Texas\n§PLa Rose jaune du Texas§!"
- southern_medley: "Southern Medley\n§PMedley sudiste§!"
- tex_71st_regiment: "Marche du 71e Régiment"
-
 ### URG - Uruguay ###
  urghimno_nacional: "Himno Nacional de Uruguay\n§PHymne National de l'Uruguay§!"
  marcha_25_de_agosto: "Marcha 25 de Agosto\n§PMarche du 25 Août§!"
@@ -965,17 +966,17 @@
  from_the_new_world: "Symphonie du Nouveau Monde"
  hail_columbia: "Hail, Columbia"
  stars_and_stripes: "Stars and Stripes Forever"
- over_there: "Over There, the Yanks are Coming\n§PPar ici, les Yankees arrivent§!"
  battle_cry: "The Battle Cry of Freedom"
- yankee_doodle: "Yankee Doodle"
+ USA_the_yankee_doodle_blues: "The Yankee Doodle Blues\n§PLe blues de Yankee Doodle§!"
  battle_hymn: "Battle Hymn of the Republic\n§PHymne de Bataille de la République§!"
- god_bless_america: "God Bless America\n§PDieu, bénis l'Amérique§!"
  praise_the_lord_and_pass_the_ammunition: "Praise the Lord and Pass the Ammunition\n§PLouez le Seigneur et Donnez les Munitions§!"
  us_field_artillery_march: "Marche de l'Artillerie de Campagne des États-Unis"
  the_marines_hymn: "From the halls of Montezuma March\n§PMarche "Des Palais de Moctezuma"§!"
  maryland_march: "Maryland, My Maryland March\n§PMarche "Maryland, mon Maryland"§!"
  marching_through_georgia: "Marching Through Georgia\n§PMarchant à travers la Géorgie§!"
- anchors_away: "Anchors Aweigh\n§PLevez l'Ancre§!"
+ USA_march_of_the_toys: "March of the Toys\n§PMarche des Jouets§!"
+ USA_the_liberty_bell: "The Liberty Bell\n§PLa Cloche de la Liberté§!"
+ USA_anchors_aweigh: "Anchors Aweigh\n§PLevez l'Ancre§!"
  semper_paratus: "Semper Paratus"
  invincible_eagle: "Invincible Eagle March\n§PMarche de l'Aigle invincible§!"
  hands_across_sea: "Hands Across the Sea March\n§PPoignée de Main par-delà la Mer§!"
@@ -985,6 +986,20 @@
 ### VEN - Venezuela ###
  gloria_al_bravo_pueblo: "Gloria al Bravo Pueblo\n§PGloire au Peuple courageux§!"
  alma_llanera: "Alma Llanera\n§PÂme des plaines§!"
+
+### WCA - Workers' Congress of America ###
+ theres_a_better_world_a_comin: "There's a Better World a'Comin'\n§PUn Monde Meilleur S'en Vient§!"
+ the_ludlow_masacre: "The Ludlow Massacre\n§PLe Massacre de Ludlow§!"
+ this_land_is_your_land: "This Land is Your Land\n§PCette terre est ta terre§!"
+ the_banks_of_marble: "The Banks of Marble\n§PLes Banques de Marbre§!"
+ solidarity_forever: "Solidarity Forever\n§PSolidarité pour Toujours§!"
+ two_good_men: "Two Good Men\n§PDeux Hommes bons§!"
+ there_is_power_in_a_union: "There is Power in a Union\n§PUn Syndicat a du Pouvoir§!"
+ john_browns_body: "John Brown's Body\n§PLe Corps de John Brown§!"
+ which_side_are_you_on: "Which Side are You On?\n§PDe quel côté es-tu ?§!"
+ bread_and_roses: "Bread and Roses\n§PDu Pain et des Roses§!"
+ we_fed_you_all_for_a_thousand_years: "We Fed You All for a Thousand Years\n§PNous Vous Avons Nourri Pendant Mille Ans§!"
+ joe_hill: "Joe Hill"
 
 ### WIF - West Indies Federation ###
  war_declaration: "War\n§PLa Guerre§!"
@@ -1059,10 +1074,10 @@
  ekla_cholo_re: "Ekla Cholo Re\n§PFaire cavalier seul§!"
  door_hato_ai_duniya_walo: "Door Hato Ai Duniya Walo\n§PPartez, ô peuples du monde§!"
 
-### INS - Insulindia ###
+### INS - Indonesia ###
  ajoen_ajoen: "Ajoen Ajoen\n§PSe balancer dans le haut cocotier§!"
  ayo_mama: "Ayo Mama\n§PAllez, Maman§!"
- insulindia_raya: "Insulindia Raya\n§PHymne National de l'Insulinde§!"
+ indonesia_raya: "Indonesia Raya\n§PHymne national indonésien§!"
  kampuang_nan_jauh_di_mato: "Kampuang Nan Jauh Di Mato\n§PUn village lointain dans mes yeux§!"
  lagu_nasakom_bersatu_dengan: "Lagu Nasakom Bersatu\n§PChanson de l'unité Nasakom§!"
  madju_sukarelawan: "Madju Sukarelawan\n§PVolontaires avancés§!"
@@ -1130,7 +1145,18 @@
  chingges_khaanii_magtaa: "Chingges Khaanii Magtaa\n§PÉloge de Gengis Khan§!"
 
 ### PHI - Philippines ###
- la_flor_de_manila: "La Flor de Manila\n§PLa Fleur de Manille§!"
+ PHI_sarung_banggi: "Sarung Banggi\n§PUn Soir§!"
+ PHI_carinosa: "Cariñosa"
+ PHI_lulay: "Lulay"
+ PHI_tinikling: "Tinikling"
+ PHI_magtanim_ay_di_biro: "Magtanim Ay Di Biro\n§PPlanter du Riz c'est Sérieux§!"
+ PHI_pandanggo_sa_ilaw: "Pandanggo Sa Ilaw\n§PDanse des Lumières§!"
+ PHI_general_luna_march: "General Luna March\n§PMarche du Général Luna§!"
+ PHI_katipunan_march: "Katipunan March\n§PMarche de Katipunan§!"
+ PHI_mabuhay_march: "Mabuhay March\n§PMarche de Longue Vie§!"
+ PHI_tatlong_bituin_march: "Tatlong Bituin March\n§PMarche des Trois Étoiles§!"
+ PHI_aray: "Aray !\n§PAïe !§!"
+ PHI_mi_bandera: "Mi Bandera\n§PMon Drapeau§!"
 
 ### QIE - Qing ###
  beiyang_fleet_anthem: "Beiyang Shuishi Junge\n§PMarche de la Flotte de Beiyang§!"
@@ -1140,7 +1166,6 @@
  phoenix_returns_to_its_nest: "Feng Huan Chao\n§PLe Phénix Retourne vers son Nid§!"
 
 ### RAJ - British India ###
- da_pukhto_tair_hair_awazona: "Da Pukhto Tair Hair Awazona"
  punjab_regimental_march: "Marche régimentaire du Pendjab"
 
 ### SIA - Siam ###
