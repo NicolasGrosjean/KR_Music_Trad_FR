@@ -80,6 +80,28 @@
  el_candu: "El Candú"
 
 ### Chinese Region ###
+ ## Traditional
+ CHN_yigen_biandan: "Yigen Biandan (Shanxi Folk Song)\n§PUn bâton de portage§!"
+ CHN_dui_hua: "Dui Hua (Chanson folklorique du Shanxi)\n§PDialogue Floral§!"
+ CHN_hongcai_meimei: "Hongcai Meimei (Chanson folklorique du Suiyuan)\n§PFille Arc-en-ciel§!"
+ CHN_pao_yangyu: "Pao Yangyu (Chanson folklorique du Shanxi)\n§PRécolter les pommes de terre§!"
+ CHN_ganji: "Ganji (Chanson folklorique d'Anhui)\n§PSe précipiter au marché§!"
+ CHN_caicha_yao: "Caicha Yao (Chanson folklorique du Fujian)\n§PChanson de travail des cueilleurs de thé§!"
+ CHN_zhizhu_diao: "Zhizhu Diao (Chanson folklorique du Jiangsu)\n§PMélodie du bambou violet§!"
+ CHN_yu_bu_sa_huahua_bu_hong: "Yu Bu Sa Huahua Bu Hong (Chanson folklorique du Yunnan)\n§PSi la pluie ne tombe pas, les fleurs ne sont pas rouges§!"
+ CHN_chashan_qingge: "Chashan Qingge (Chanson folklorique du Guizhou)\n§PChansons d'amour de la Montagne du Thé§!"
+ CHN_wucai_yunxia: "Wucai Yunxia (Chanson folklorique du Yunnan)\n§PNuages multicolores§!"
+ ## Shidaiqu
+ CHN_meigui_meigui_wo_ai_ni: "Meigui Meigui Wo Ai Ni\n§PRose, Rose, je t'aime§!"
+ CHN_nage_bu_duoqing: "Nage Bu Duoqing\n§PQui ne serait pas ému ?§!"
+ CHN_bailan_xiang: "Bailan Xiang\n§PParfum Orchidée Blanche§!"
+ CHN_qinhuai_hepan: "Qinhuai Hepan\n§PAu bord du fleuve Qinhuai§!"
+ CHN_daizhe_yanlei_chang: "Daizhe Yanlei Chang\n§PChanter les larmes aux yeux§!"
+ CHN_chongfeng: "Chongfeng\n§PRéunion§!"
+ CHN_suzhou_hebian: "Suzhou Hebian\n§PAu bord du ruisseau de Suzhou§!"
+ CHN_de_bu_dao_de_aiqing: "De Bu Dao De Aiqing\n§PUn amour inaccessible§!"
+ CHN_shasha_zaihui_ba: "Shasha Zaihui Ba\n§PSasha, adieu§!"
+
  flowers_of_spring: "Yingchun Hua\n§PJasmin d'hiver§!"
  golden_snakes_furiously_dancing: "Jinshe Kuang Wu\n§PLes Serpents d'Or Dansent Furieusement§!"
  shanghai_lil_edogawa_version: "Shanghai Lil\n§PVersion d'Edogawa§!"
@@ -1136,7 +1158,6 @@
 ### LEC - Legation Cities ###
  when_will_you_return: "He Ri Jun zai Lai\n§PQuand reviendras-tu ?§!"
  ye_shang_hai: "Ye Shanghai\n§PLa Nuit de Shanghai§!"
- rose_rose_i_love_you: "Meigui Meigui Wo Ai Ni\n§PRose, Rose, je t'aime§!"
  yelai_xiang: "Yelai Xiang\n§PLe Parfum de la Nuit§!"
 
 ### MON - Mongolia ###
